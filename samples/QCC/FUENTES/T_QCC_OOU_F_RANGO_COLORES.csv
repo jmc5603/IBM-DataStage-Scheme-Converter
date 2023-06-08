@@ -1,0 +1,7 @@
+ID,NUMBER(11,0),No,,1,ID Rango
+NIVEL,VARCHAR2(100 BYTE),Yes,,2,Nivel Rango
+COLOR,CHAR(1 BYTE),Yes,,3,Color Rango
+INICIAL,FLOAT,Yes,,4,Inicio Rango
+FINAL,FLOAT,Yes,,5,Final Rango
+COD_COLOR,VARCHAR2(10 BYTE),Yes,,6,Codigo color Rango
+ID_PARAMETRO,NUMBER(3,0),Yes,,7,Parametro Rango

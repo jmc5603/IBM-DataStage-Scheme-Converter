@@ -1,0 +1,5 @@
+record{final_delim=none, delim=';', quote=double} 
+ {
+	 AV_VERSION_REFERENCIA:nullable string[max=20];
+	 AV_VERSION_REFERENCIA_PLATAF:nullable string[max=20];
+}

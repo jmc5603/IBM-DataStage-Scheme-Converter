@@ -1,0 +1,10 @@
+record{final_delim=none, delim=';', quote=double} 
+ {
+	 ID: decimal[11,0];
+	 NIVEL:nullable string[max=100];
+	 COLOR:nullable string[1];
+	 INICIAL:nullable float;
+	 FINAL:nullable float;
+	 COD_COLOR:nullable string[max=10];
+	 ID_PARAMETRO:nullable decimal[3,0];
+}
